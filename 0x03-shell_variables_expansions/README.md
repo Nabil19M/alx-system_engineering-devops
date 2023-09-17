@@ -1,2 +1,2 @@
-Welcome to Final Round of Bash Tasks."\n"
+Welcome to Final Round of Bash Tasks.
 Hope you enjoyed the trip
