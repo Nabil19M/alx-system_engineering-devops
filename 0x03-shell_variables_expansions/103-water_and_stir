@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($((2#$WATER))+$((2#$STIR))))
+printf "%$\n" $(($(10#${WATER}) + $(10#${STIR})))
